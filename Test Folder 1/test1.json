@@ -1,0 +1,29 @@
+{
+  "elmType": "div",
+  "style": {
+    "box-sizing": "border-box",
+    "padding": "0 2px"
+  },
+  "attributes": {
+    "class": "sp-css-backgroundColor-neutralBackground"
+  },
+  "children": [
+    {
+      "elmType": "span",
+      "attributes": {
+        "iconName": "",
+        "class": ""
+      }
+    },
+    {
+      "elmType": "span",
+      "style": {
+        "padding": "0 2px"
+      },
+      "txtContent": "@currentField",
+      "attributes": {
+        "class": ""
+      }
+    }
+  ]
+}
